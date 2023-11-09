@@ -1,1 +1,1 @@
-and this file also was changed in local repo
+some text in bugfix
